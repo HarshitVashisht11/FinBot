@@ -1,6 +1,6 @@
 # Fin Bot
 
-Fin Bot is a smart and versatile chatbot that aims to provide users with a seamless conversational experience. It can perform calculations, fetch real-time stock prices, and retrieve the latest cryptocurrency rates, making it a useful companion for various tasks.
+Fin Bot is a chatbot that aims to provide users with a seamless conversational experience. It can perform calculations, fetch real-time stock prices, and retrieve the latest cryptocurrency rates, making it a useful companion for various tasks.
 
 ## Table of Contents
 - [Introduction](#introduction)
