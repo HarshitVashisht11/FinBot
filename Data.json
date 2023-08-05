@@ -1,0 +1,197 @@
+{
+  "questions": [
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "who are you",
+      "answer": "I am Fin Bot a finance based chat bot that can perform basic calculations and can also provide latest stock and crypto prices : )"
+    },
+    {
+      "question": "How are you doing mate?",
+      "answer": "I'm doing good"
+    },
+    {
+      "question": "What's up?^",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi there"
+    },
+    {
+      "question": "I've been on my own for long enough",
+      "answer": "Maybe you can show me how to love, maybe"
+    },
+    {
+      "question": "What is the difference between stocks and bonds?",
+      "answer": "Stocks represent ownership in a company, while bonds represent debt that needs to be repaid by the issuer."
+    },
+    {
+      "question": "What is the role of the Federal Reserve?",
+      "answer": "The Federal Reserve, often referred to as the central bank of the United States, regulates monetary policy, supervises banks, and maintains financial stability."
+    },
+    {
+      "question": "What is compound interest?",
+      "answer": "Compound interest is the interest calculated on the initial principal and the accumulated interest from previous periods."
+    },
+    {
+      "question": "What are the main types of investment accounts?",
+      "answer": "Common types of investment accounts include individual brokerage accounts, retirement accounts (such as 401(k) and IRAs), and college savings accounts (such as 529 plans)."
+    },
+    {
+      "question": "How does diversification reduce investment risk?",
+      "answer": "Diversification involves spreading investments across different asset classes and sectors to reduce the impact of any single investment on the overall portfolio."
+    },
+    {
+      "question": "What are the factors that affect a company's stock price?",
+      "answer": "Several factors influence a company's stock price, including its financial performance, industry trends, macroeconomic factors, and investor sentiment."
+    },
+    {
+      "question": "What is the difference between a traditional IRA and a Roth IRA?",
+      "answer": "Traditional IRAs offer tax-deferred contributions and tax-deductible contributions, while Roth IRAs offer tax-free withdrawals in retirement."
+    },
+    {
+      "question": "What is the purpose of credit scores?",
+      "answer": "Credit scores are used by lenders to assess the creditworthiness of individuals and determine the likelihood of timely repayment of debts."
+    },
+    {
+      "question": "What is an index fund?",
+      "answer": "An index fund is a type of mutual fund or ETF that aims to replicate the performance of a specific market index, such as the S&P 500."
+    },
+    {
+      "question": "What is the difference between a bull market and a bear market?",
+      "answer": "A bull market refers to a rising market with increasing prices, while a bear market refers to a declining market with falling prices."
+    },
+    {
+      "question": "What are the key factors to consider when analyzing a company's financial statements?",
+      "answer": "Key factors to consider include revenue trends, profitability, cash flow, debt levels, and financial ratios."
+    },
+    {
+      "question": "What is the role of a financial advisor?",
+      "answer": "A financial advisor provides personalized advice and guidance on various financial matters, including investments, retirement planning, and risk management."
+    },
+    {
+      "question": "What is the difference between a traditional savings account and a money market account?",
+      "answer": "Money market accounts typically offer higher interest rates than traditional savings accounts and may have additional features such as check-writing privileges."
+    },
+    {
+      "question": "What are the benefits of diversifying investments across asset classes?",
+      "answer": "Diversifying across asset classes helps reduce the risk of concentration in a single asset and potentially improves the risk-adjusted return of a portfolio."
+    },
+    {
+      "question": "What is insider trading?",
+      "answer": "Insider trading refers to the buying or selling of a security based on material non-public information about the company, which is not available to the general public."
+    },
+    {
+      "question": "What is a 401(k) retirement plan?",
+      "answer": "A 401(k) retirement plan is a tax-advantaged savings plan offered by employers to help employees save for retirement. Contributions are deducted from the employee's salary before taxes, and the funds grow tax-free until withdrawal."
+    },
+    {
+      "question": "What is the concept of risk and return in investing?",
+      "answer": "The concept of risk and return states that investments with higher potential returns tend to come with higher risks. Investors must evaluate their risk tolerance and choose investments that align with their financial goals."
+    },
+    {
+      "question": "What is the difference between a stock exchange and an over-the-counter (OTC) market?",
+      "answer": "A stock exchange is a regulated marketplace where buyers and sellers trade stocks and other securities, while the over-the-counter (OTC) market is a decentralized market where trades are conducted directly between parties."
+    },
+    {
+      "question": "What is a mutual fund?",
+      "answer": "A mutual fund is an investment vehicle that pools money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other assets. It is managed by professional fund managers."
+    },
+    {
+      "question": "What is the role of inflation in the economy?",
+      "answer": "Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling. It affects various aspects of the economy, including interest rates, wages, and consumer purchasing power."
+    },
+    {
+      "question": "What is the purpose of a stock index?",
+      "answer": "A stock index measures and tracks the performance of a specific group of stocks, representing a particular market or sector. It serves as a benchmark to evaluate the overall performance of the market or specific segments."
+    },
+    {
+      "question": "What is the difference between a bullion and a numismatic coin?",
+      "answer": "Bullion coins are valued based on their precious metal content, while numismatic coins are valued based on factors such as rarity, historical significance, and condition."
+    },
+    {
+      "question": "What is a margin call?",
+      "answer": "A margin call occurs when an investor's margin account falls below the required maintenance margin. The investor must then deposit additional funds or securities to bring the account back to the required level."
+    },
+    {
+      "question": "What is the purpose of diversifying currency holdings?",
+      "answer": "Diversifying currency holdings helps reduce the risk associated with exposure to a single currency and can provide a hedge against fluctuations in exchange rates."
+    },
+    {
+      "question": "What are the main types of financial markets?",
+      "answer": "The main types of financial markets include stock markets, bond markets, foreign exchange markets, and commodity markets."
+    },
+    {
+      "question": "What is the difference between a traditional and a Roth 401(k)?",
+      "answer": "A traditional 401(k) allows pre-tax contributions, which are taxed upon withdrawal, while a Roth 401(k) accepts after-tax contributions, with tax-free withdrawals in retirement."
+    },
+    {
+      "question": "What is the concept of market capitalization?",
+      "answer": "Market capitalization, or market cap, is the total value of a publicly traded company's outstanding shares. It is calculated by multiplying the current stock price by the number of shares outstanding."
+    },
+    {
+      "question": "What is the purpose of a credit rating?",
+      "answer": "A credit rating assesses the creditworthiness of individuals, companies, or financial instruments, indicating the likelihood of defaulting on debt payments. It helps lenders make informed decisions about lending money or issuing credit."
+    },
+    {
+      "question": "What is the difference between a traditional and a Roth IRA?",
+      "answer": "A traditional IRA allows pre-tax contributions, which are taxed upon withdrawal, while a Roth IRA accepts after-tax contributions, with tax-free withdrawals in retirement."
+    },
+    {
+      "question": "What is the role of the Securities and Exchange Commission (SEC)?",
+      "answer": "The Securities and Exchange Commission (SEC) is a regulatory agency that oversees and enforces securities laws, protecting investors, maintaining fair and efficient markets, and facilitating capital formation."
+    },
+    {
+      "question": "What is the concept of market volatility?",
+      "answer": "Market volatility refers to the degree of variation or fluctuation in the price of a financial instrument or the overall market. Higher volatility indicates larger price swings, indicating increased market uncertainty."
+    },
+    {
+      "question": "What is the purpose of a stop-loss order?",
+      "answer": "A stop-loss order is a type of order placed with a broker to sell a security if it reaches a specified price, limiting potential losses."
+    },
+    {
+      "question": "What is the role of a financial analyst?",
+      "answer": "A financial analyst conducts financial research, analyzes data, and provides insights and recommendations to individuals, businesses, or investment firms to make informed financial decisions."
+    },
+    {
+      "question": "What is the concept of asset allocation?",
+      "answer": "Asset allocation refers to the strategy of spreading investments across different asset classes, such as stocks, bonds, and cash, to optimize risk and return based on an individual's financial goals and risk tolerance."
+    },
+    {
+      "question": "What is the difference between a traditional and a online bank?",
+      "answer": "A traditional bank has physical branches, while an online bank operates primarily online without physical branch locations. Online banks often offer higher interest rates and lower fees due to lower operational costs."
+    },
+    {
+      "question": "What is the purpose of a credit card?",
+      "answer": "A credit card allows individuals to borrow money from a financial institution up to a certain credit limit, which must be repaid with interest. It provides a convenient method of payment and helps build credit history."
+    },
+    {
+      "question": "What is the role of a financial planner?",
+      "answer": "A financial planner assesses an individual's financial situation, helps set financial goals, and develops a comprehensive plan to achieve those goals, taking into account factors such as investments, retirement planning, tax strategies, and risk management."
+    },
+    {
+      "question": "What is the difference between a growth stock and a value stock?",
+      "answer": "Growth stocks are shares of companies expected to grow at an above-average rate, while value stocks are shares of companies that are considered undervalued based on factors such as earnings, assets, or dividends."
+    },
+    {
+      "question": "What is the purpose of a budget?",
+      "answer": "A budget is a financial plan that outlines an individual's or organization's expected income and expenses over a specific period. It helps manage spending, save for financial goals, and allocate resources effectively."
+    },
+    {
+      "question": "What is the concept of market liquidity?",
+      "answer": "Market liquidity refers to the ease with which an asset or security can be bought or sold without significantly impacting its price. High liquidity means there are enough buyers and sellers in the market to facilitate smooth trading."
+    },
+    {
+      "question": "What is the purpose of a stock split?",
+      "answer": "A stock split is a corporate action that increases the number of shares outstanding while proportionally reducing the price per share. It aims to make the stock more affordable and increase its liquidity."
+    }
+    
+  ]
+}
